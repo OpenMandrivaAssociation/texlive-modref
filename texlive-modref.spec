@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-modref
 Version:	1.0
-Release:	11
+Release:	12
 Summary:	Customisation of cross-references in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/modref
